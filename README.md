@@ -17,7 +17,7 @@ A realistic sky replacement mod for **Euro Truck Simulator 2**.
 5. Apply changes and enjoy!
 
 ## Compatibility
-- Euro Truck Simulator 2: 1.61
+- Euro Truck Simulator 2: 1.61 and 1.62
 - Mod type: Standalone sky replacement
 - Package format: `.scs`
 
